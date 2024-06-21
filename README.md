@@ -17,6 +17,9 @@ B. Upload kaggle.json ke Google Colab:
      
 # Langkah 2: Instalasi Kaggle dan Unduh Dataset
 Di dalam notebook Google Colab, kita akan menginstal paket Kaggle, mengimpor kaggle.json, dan mengunduh dataset dari Kaggle.
+
   A. Instalasi Paket Kaggle:
       Jalankan sel berikut di notebook Colab untuk menginstal kaggle:
       !pip install kaggle
+# Langkah 3: Jalankan Model Machine Learning
+  A. Model dapat di running all, atau tekan shift+enter di setiap colom
